@@ -8,7 +8,7 @@
 
 We primarily use MATLAB for data aqcuisition and analysis. We have built a number of applications, custom scripts and utility functions to aid in this process. Here is a linked list with short descriptions.
 
-- **[MetaVision](https://github.com/sampath-lab-ucla/MetaVision)** A metainformation viewer for data aqcuired using [Symphony DAS](http://symphony-das.github.io/).
+- **[MetaVision](https://github.com/sampath-lab-ucla/MetaVision)** A metainformation viewer for data aqcuired using [Symphony DAS]({{ site.github.org }}/MetaVision).
 
 
-<small>&copy; {{ site.time | date: '%Y' }} {{ title }}. MATLAB is a registered trademark of The MathWorks, Inc.</small>
+<small>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. MATLAB is a registered trademark of The MathWorks, Inc.</small>
