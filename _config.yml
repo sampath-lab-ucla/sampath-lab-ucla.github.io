@@ -1,1 +1,9 @@
+permalink: pretty
+title: Sampath Lab
+url: http://sampath-lab-ucla.github.io
+baseurl: ''
+
+github:
+  org: https://github.com/Sampath-Lab-UCLA
+
 theme: jekyll-theme-minimal
