@@ -4,11 +4,9 @@ title: Home
 ---
 
 <div class="center">
-<h1>Sampath Lab</h1>
-*A collection of custom-built apps and code used in our lab.*
-
----
-
+  <h1>Sampath Lab</h1>
+  <em>A collection of custom-built apps and code used in our lab.</em>
+  <hr />
 </div>
 
 ## MATLAB
