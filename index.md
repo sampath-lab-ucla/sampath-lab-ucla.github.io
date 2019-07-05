@@ -2,12 +2,13 @@
 layout: default
 title: Home
 ---
-
+<span class="center">
 # Sampath Lab
 
 *A collection of custom-built apps and code used in our lab.*
 
 ---
+</span>
 
 ## MATLAB
 
