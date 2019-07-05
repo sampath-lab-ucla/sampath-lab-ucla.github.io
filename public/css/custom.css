@@ -1,5 +1,13 @@
 .container {
+  text-align: left;
+}
+
+.container .center {
   text-align: center;
+}
+
+.container .right {
+  text-align: right;
 }
 
 a:hover,
