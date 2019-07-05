@@ -1,8 +1,13 @@
 permalink: pretty
 title: Sampath Lab
 tagline: 'A script and app collection'
+description: 'A collection of scripts and apps we use for data analysis.'
 url: http://sampath-lab-ucla.github.io
 baseurl: ''
+
+contacts:
+  name: 'Sampath Lab @ UCLA'
+  maintainer: khrisgriffis@ucla.edu
 
 github:
   org: https://github.com/Sampath-Lab-UCLA
