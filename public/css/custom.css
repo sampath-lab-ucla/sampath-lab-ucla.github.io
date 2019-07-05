@@ -43,15 +43,17 @@ hr {
 .theme-custom #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #0072ba;
 }
+/*
 .theme-custom .sidebar-toggle:before {
   background-image: -webkit-linear-gradient(to bottom, #0072ba, #0072ba 20%, #fff 20%, #fff 40%, #0072ba 40%, #0072ba 60%, #fff 60%, #fff 80%, #0072ba 80%, #0072ba 100%);
   background-image:    -moz-linear-gradient(to bottom, #0072ba, #0072ba 20%, #fff 20%, #fff 40%, #0072ba 40%, #0072ba 60%, #fff 60%, #fff 80%, #0072ba 80%, #0072ba 100%);
   background-image:     -ms-linear-gradient(to bottom, #0072ba, #0072ba 20%, #fff 20%, #fff 40%, #0072ba 40%, #0072ba 60%, #fff 60%, #fff 80%, #0072ba 80%, #0072ba 100%);
   background-image:         linear-gradient(to bottom, #0072ba, #0072ba 20%, #fff 20%, #fff 40%, #0072ba 40%, #0072ba 60%, #fff 60%, #fff 80%, #0072ba 80%, #0072ba 100%);
 }
+*/
 .theme-custom h1,
 .theme-custom .container a,
 .theme-custom .sidebar-toggle,
 .theme-custom .related-posts li a:hover {
-  color: #fff;
+  color: #0072ba;
 }
